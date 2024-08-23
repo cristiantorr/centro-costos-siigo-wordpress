@@ -1,1 +1,1 @@
-# centro-costos-siigo-wordpress
+# PLUGIN centro-costos-siigo-wordpress
